@@ -1,7 +1,7 @@
 # Desafio Softplan 
 ## Aplicação Web ASP .Net Core, faz cálculo em memória de juros compostos. O projeto possui duas API's:
 - TaxaDeJurosAPI: Responde pelo path "/taxaJuros", retornando a taxa juros de 1% ou 0,01;
-- CalculaJurosAPI: Responde pelo path "/calculajuros", faz um cálculo em memória de juros compostos. Respondendo também pelo path relativo "/showmethecode" que retorna a url do projeto no github.
+- CalculaJurosAPI: Responde pelo path "/calculaJuros", faz um cálculo em memória de juros compostos. Respondendo também pelo path "/showmethecode" que retorna a url do projeto no github.
 
 ### Instruções para a execução do projeto:
 - Abrir diretorio da api **TaxaServicoAPI** pelo terminal, rode o comando `dotnet run --project TaxaJurosAPI.csproj`;
